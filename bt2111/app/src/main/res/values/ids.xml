@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menu_remove" type="id">a</item>
+    <item name="menu_edit" type="id">a</item>
+    <item name="menu_add_new" type="id">a</item>
+</resources>
