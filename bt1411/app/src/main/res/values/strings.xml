@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">student</string>
+    <string name="t_n_sinh_vi_n">Tên sinh viên</string>
+    <string name="mssv">MSSV</string>
+    <string name="add_new">Add new</string>
+    <string name="ten_sinh_vien">Tên sinh viên</string>
+    <string name="mssvi">MSSV</string>
+    <string name="todo">TODO</string>
+    <string name="studentid">StudentId</string>
+    <string name="studentname">StudentName</string>
+    <string name="to_do">TODO</string>
+</resources>
